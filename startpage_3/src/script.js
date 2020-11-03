@@ -40,10 +40,6 @@ document.getElementById("go_btn").addEventListener("click", function(){
 });
 
 const search_engines = [{
-    src: "ddg.svg",
-    placeholder: "DuckDuckGo",
-    action: "https://www.duckduckgo.com/"
-  }, {
     src: "goog.svg",
     placeholder: "Google",
     action: "https://www.google.com/search?q="
