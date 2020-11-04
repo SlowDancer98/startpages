@@ -51,16 +51,16 @@ a:visited, a:link, a:active {
 a:hover {
     text-shadow: 2px 2px 4px #1b1f26;
 }
-#watch > a:hover {
+#ent > a:hover {
     color: #bf616a
 }
 #social > a:hover {
     color: #d08770
 }
-#dev > a:hover {
+#misc > a:hover {
     color: #ebcb8b
 }
-#linux > a:hover {
+#sound > a:hover {
     color: #a3be8c
 }
 #email > a:hover {
