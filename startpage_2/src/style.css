@@ -15,7 +15,7 @@ body {
         visibility: hidden;
         margin: auto;
     }
-    .watch, .social, .dev, .linux {
+    .ent, .social, .misc, .sound, .email {
         flex-direction: column;
         width: auto;
     }
@@ -28,10 +28,10 @@ body {
     display: flex;
     flex-wrap: wrap;
     vertical-align: top;
-    justify-content: center; 
+    justify-content: center;
     font-family: 'Overpass Mono', monospace;
 }
-.watch, .social, .dev, .linux {
+.ent, .social, .misc, .sound, .email {
     display: flex;
     flex-direction: column;
     padding: 40px;
