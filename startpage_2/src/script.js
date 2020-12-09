@@ -1,5 +1,5 @@
 // Change this to your username
-var username = "grtcdr";
+var username = "Slow Dancer";
 
 if (localStorage.getItem('data') == null) var mode = "dark";
 else mode = localStorage.getItem('data');
@@ -47,7 +47,7 @@ function dark_colors() {
     document.getElementById("greeting").style.color = "#dee3de";
     mode_id.src = "ico/light.png";
     mode_id.style.filter = "invert(100%) sepia(0%) saturate(1620%) hue-rotate(8deg) brightness(94%) contrast(88%)";
-    for (i = 0; i < link.length; i++) 
+    for (i = 0; i < link.length; i++)
         link[i].style.color = "#bbb";
 
 }
@@ -59,7 +59,7 @@ function light_colors() {
     document.getElementById("greeting").style.color = "#767283";
     mode_id.src = "ico/dark.png";
     mode_id.style.filter = "invert(58%) sepia(12%) saturate(482%) hue-rotate(148deg) brightness(94%) contrast(86%)";
-    for (i = 0; i < link.length; i++) 
+    for (i = 0; i < link.length; i++)
         link[i].style.color = "#767283";
 }
 
