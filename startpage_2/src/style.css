@@ -117,10 +117,10 @@ a:hover {
     }
     @keyframes e_blink{
     0%{     color: #1F618D; }
-    20%{    color: #1F618D; }
+    20%{    color: #2470A3; }
     40%{    color: #1F618D; }
     60%{    color: #1F618D; }
-    80%{    color: #1F618D; }
+    80%{    color: #1C577E; }
     100%{   color: #1F618D; }
 }
 #youtube:hover {
