@@ -61,10 +61,10 @@ a:hover {
     }
     @keyframes blinking{
     0%{     color: #1383F2; }
-    20%{    color: #459EF7; }
-    40%{    color: #77B8F8; }
-    60%{    color: #77B8F8; }
-    80%{    color: #459EF7; }
+    20%{    color: #1383F2; }
+    40%{    color: #1383F2; }
+    60%{    color: #1383F2; }
+    80%{    color: #1383F2; }
     100%{   color: #1383F2; }
 }
 
@@ -72,56 +72,56 @@ a:hover {
     animation:w_blink 5s infinite;
     }
     @keyframes w_blink{
-    0%{     color: #9866ED; }
-    20%{    color: #9B67F5; }
-    40%{    color: #9873D9; }
-    60%{    color: #834CE0; }
+    0%{     color: #7739E3; }
+    20%{    color: #7739E3; }
+    40%{    color: #7739E3; }
+    60%{    color: #7739E3; }
     80%{    color: #7739E3; }
-    100%{   color: #9866ED; }
+    100%{   color: #7739E3; }
 }
 #s {
     animation:s_blink 5s infinite;
     }
     @keyframes s_blink{
-    0%{     color: #5BE3AF; }
+    0%{     color: #22AB76; }
     20%{    color: #22AB76; }
     40%{    color: #1FC485; }
-    60%{    color: #5EB895; }
-    80%{    color: #66D9AD; }
-    100%{   color: #5BE3AF; }
+    60%{    color: #22AB76; }
+    80%{    color: #22AB76; }
+    100%{   color: #22AB76; }
 }
 #d {
     animation:d_blink 5s infinite;
     }
     @keyframes d_blink{
-    0%{     color: #D1B22A; }
-    20%{    color: #D9C777; }
-    40%{    color: #D1B22A; }
-    60%{    color: #CCA806; }
+    0%{     color: #E0BE24; }
+    20%{    color: #E0BE24; }
+    40%{    color: #E0BE24; }
+    60%{    color: #E0BE24; }
     80%{    color: #E0BE24; }
-    100%{   color: #D1B22A; }
+    100%{   color: #E0BE24; }
 }
 #l {
     animation:l_blink 5s infinite;
     }
     @keyframes l_blink{
     0%{     color: #CF342B; }
-    20%{    color: #F2746D; }
+    20%{    color: #CF342B; }
     40%{    color: #CF342B; }
-    60%{    color: #F7665E; }
-    80%{    color: #F2746D; }
+    60%{    color: #CF342B; }
+    80%{    color: #CF342B; }
     100%{   color: #CF342B; }
 }
 #e {
     animation:e_blink 5s infinite;
     }
     @keyframes e_blink{
-    0%{     color: #1F618D; }
-    20%{    color: #2470A3; }
-    40%{    color: #1F618D; }
-    60%{    color: #1F618D; }
+    0%{     color: #1C577E; }
+    20%{    color: #1C577E; }
+    40%{    color: #1C577E; }
+    60%{    color: #1C577E; }
     80%{    color: #1C577E; }
-    100%{   color: #1F618D; }
+    100%{   color: #1C577E; }
 }
 #youtube:hover {
     color: #FF0000 !important
